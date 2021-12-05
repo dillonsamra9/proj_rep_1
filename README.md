@@ -1,4 +1,4 @@
 # proj_rep_1
 
 hellooooo
-check out [test link](doc/text.md)
+check out [test link](doc/test.md)
